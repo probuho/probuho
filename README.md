@@ -68,19 +68,19 @@
 
 <div align="left">
 
-**[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
+> **[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
 > 🌐 Portafolio personal con diseño cyberpunk — Proyecto completo de sitio web moderno
 > *TypeScript* ⭐ 1
 
-**[Reporter](https://github.com/probuho/Reporter)**
+> **[Reporter](https://github.com/probuho/Reporter)**
 > 🤖 Bot de Telegram para monitoreo en tiempo real — Utiliza conexiones SSH para entregar estatus y reportes sobre servidores administrados con Linux
 > *TypeScript*
 
-**[Kanban](https://github.com/probuho/SD3-kanban)**
+> **[Kanban](https://github.com/probuho/SD3-kanban)**
 > 📋 Tablero kanban — Ejercicio de gestión de tareas
 > *JavaScript*
 
-**[TSU Project](https://github.com/probuho/GEP-front)**
+> **[TSU Project](https://github.com/probuho/GEP-front)**
 > ⚛️ Proyecto defensivo para optar por el título de TSU — Front-end con TypeScript
 > *TypeScript*
 
