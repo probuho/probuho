@@ -1,7 +1,7 @@
 <div>
 
-<h1>👋 Hola, soy Antonio Ruiz</h1>
-<h3>Desarrollador Junior Full Stack | Telecomunicaciones | Disponible para proyectos freelance</h3>
+<h1> Hola, soy Antonio Ruiz</h1>
+<h3>Desarrollador Junior Full Stack | Telecomunicaciones | Disponible para proyectos freelance o consultorias</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DC9D1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;TypeScript+%26+JavaScript;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Siempre+en+b%C3%BAsqueda+de+crecer)](https://git.io/typing-svg)
 
@@ -110,4 +110,4 @@
 
 ---
 
-"La lógica es mi forma de construir soluciones." 💻🧠
+"Si puedes imaginarlo puedes programarlo" 💻🧠
