@@ -47,9 +47,18 @@
 
 <div>
 
-![probuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=probuho&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Followers](https://img.shields.io/github/followers/probuho?style=flat&label=Seguidores&color=2DC9D1)
+![Stars](https://img.shields.io/github/stars/probuho?style=flat&label=Stars&color=FFD43B)
+![Repos](https://img.shields.io/github/repos/probuho?style=flat&label=Repositorios&color=007ACC)
+![Contributions](https://img.shields.io/github/issues/probuho/probuho?style=flat&label=Contribuciones&color=F05032)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probuho&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D2F?style=for-the-badge&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
