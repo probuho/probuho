@@ -1,7 +1,7 @@
 <div>
 
-<h1>👋 Hola, soy Antonio Ruiz</h1>
-<h3>Desarrollador Junior Full Stack | Telecomunicaciones | Disponible para proyectos freelance</h3>
+<h1> Hola, soy Antonio Ruiz</h1>
+<h3>Desarrollador Junior Full Stack | Telecomunicaciones | Disponible para proyectos freelance o consultorias</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DC9D1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;TypeScript+%26+JavaScript;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Siempre+en+b%C3%BAsqueda+de+crecer)](https://git.io/typing-svg)
 
@@ -47,9 +47,9 @@
 
 <div>
 
-![probuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=probuho&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![probuho's GitHub stats] (https://github-readme-stats.vercel.app/api?username=probuho&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=probuho&layout=compact&theme=dark&hide_border=true&langs_count=8)
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=probuho&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
@@ -59,20 +59,20 @@
 
 <div align="left">
 
-**[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
-> 🌐 Portafolio personal con diseño cyberpunk — Proyecto completo de sitio web moderno
+>**[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
+> 🌐 Portafolio personal
 > *TypeScript* ⭐ 1
 
-**[Reporter](https://github.com/probuho/Reporter)**
-> 🤖 Bot de Telegram para monitoreo en tiempo real — Utiliza conexiones SSH para entregar estatus y reportes sobre servidores administrados con Linux
+>**[Reporter](https://github.com/probuho/Reporter)**
+> 🤖 Bot de Telegram para monitoreo en tiempo real. Utiliza conexiones SSH para entregar estatus y reportes sobre servidores administrados con Linux
 > *TypeScript*
 
-**[Kanban](https://github.com/probuho/SD3-kanban)**
+>**[Kanban](https://github.com/probuho/SD3-kanban)**
 > 📋 Tablero kanban — Ejercicio de gestión de tareas
 > *JavaScript*
 
-**[TSU Project](https://github.com/probuho/GEP-front)**
-> ⚛️ Proyecto defensivo para optar por el título de TSU — Front-end con TypeScript
+>**[TSU Project](https://github.com/probuho/GEP-front)**
+> ⚛️ Proyecto defensivo para optar por el título de TSU en informatica
 > *TypeScript*
 
 </div>
@@ -85,7 +85,7 @@
 |------|----------|-------------|
 | `Builder-CV` | — | Constructor de CV profesional |
 | `Portafolios` | TypeScript | Portfolio personal cyberpunk |
-| `GEP-front` | TypeScript | Proyecto TSU — Front-end |
+| `GEP-front` | TypeScript | Proyecto TSU |
 | `Reporter` | TypeScript | Bot SSH/Telegram para monitoreo de servidores Linux |
 | `Kanban` | JavaScript | Tablero kanban — Ejercicio |
 | `repo_programacion` | JavaScript | Proyecto de programación |
@@ -101,4 +101,4 @@
 
 ---
 
-"La lógica es mi forma de construir soluciones." 💻🧠
+"Si puedes imaginarlo puedes programarlo" 💻Programacion ATS🧠
