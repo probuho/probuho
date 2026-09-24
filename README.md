@@ -1,9 +1,9 @@
-<div align="left">
+<div>
 
-<h1>👋 Hey, I'm Antonio Ruiz</h1>
-<h3>Junior Full Stack Developer | Telecomunicaciones | Disponible para proyectos freelance</h3>
+<h1>👋 Hola, soy Antonio Ruiz</h1>
+<h3>Desarrollador Junior Full Stack | Telecomunicaciones | Disponible para proyectos freelance</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DC9D1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%26+JavaScript+Specialist;Web+Applications+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DC9D1&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;TypeScript+%26+JavaScript;Aprendiendo+algo+nuevo+cada+d%C3%ADa;Siempre+en+b%C3%BAsqueda+de+crecer)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/probuho?style=social)](https://github.com/probuho)
 [![GitHub stars](https://img.shields.io/github/stars/probuho?style=social)](https://github.com/probuho)
@@ -15,20 +15,15 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 Sobre mí: Información general sobre quién soy
 
-- 🎓 **Estudiando** en el mundo del desarrollo web y software
-- 💼 **Trabajando** en Telecomunicaciones Movilnet
-- 🔭 **Buscando** oportunidades para crecer como desarrollador freelance
-- 📚 **Aprendiendo** nuevas tecnologías todos los días
-- ⚡ **Enthusiast** por crear aplicaciones funcionales y modernas
-- 🐧 **Linux enthusiast** — monitoreo y automatización de servidores
+> Egresado del PNF de Ingeniería en Informática de la UNETI — Universidad Nacional Experimental de las Telecomunicaciones e Informática. Me gradué, pero nunca dejé de estudiar porque tengo una sed insaciable de conocimiento y me apasiona aprender algo nuevo cada día. Soy una persona disciplinada, responsable y constante en lo que hago. Actualmente trabajo en Telecomunicaciones Movilnet, busco oportunidades para crecer como desarrollador freelance, ya sea como generalista en UX/UI o como especialista en alguna tecnología específica. Tengo otros certificados que respaldan mi formación continua.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas: Lo que sé y uso
 
-<div align="left">
+<div>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -46,9 +41,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats: Estadísticas públicas de mi actividad
 
-<div align="left">
+> Aquí puedes ver mi actividad en GitHub y los lenguajes que más uso.
+
+<div>
 
 ![probuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=probuho&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
@@ -58,7 +55,9 @@
 
 ---
 
-### 🔥 Proyectos Destacados
+### 🔥 Proyectos Destacados: Mis mejores trabajos
+
+<div align="left">
 
 **[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
 > 🌐 Portafolio personal con diseño cyberpunk — Proyecto completo de sitio web moderno
@@ -76,9 +75,11 @@
 > ⚛️ Proyecto defensivo para optar por el título de TSU — Front-end con TypeScript
 > *TypeScript*
 
+</div>
+
 ---
 
-### 📈 Repositorios
+### 📈 Repositorios: Todos mis repositorios públicos
 
 | Repo | Lenguaje | Descripción |
 |------|----------|-------------|
@@ -91,7 +92,7 @@
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 Cómo contactarme: Información de contacto
 
 - 📧 **Correo**: [contactoprobuho@gmail.com](mailto:contactoprobuho@gmail.com)
 - 💼 **LinkedIn**: [Antonio Ruiz](https://www.linkedin.com/in/antoniojruizc/)
@@ -100,10 +101,4 @@
 
 ---
 
-<div align="left">
-
-*"El código es mi forma de hablar con el mundo."* 💻✨
-
-[![](https://skillicons.dev/svg?type=typescript,javascript,html,css,nodejs,laravel,git)](https://skillicons.dev)
-
-</div>
+"La lógica es mi forma de construir soluciones." 💻🧠
