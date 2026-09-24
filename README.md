@@ -1,14 +1,15 @@
-<div align="center">
+<div align="left">
 
 <h1>👋 Hey, I'm Antonio Ruiz</h1>
-<h3>Junior Full Stack Developer | Telecomunicaciones</h3>
+<h3>Junior Full Stack Developer | Telecomunicaciones | Disponible para proyectos freelance</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DC9D1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%26+JavaScript+Specialist;Web+Applications+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/probuho?style=social)](https://github.com/probuho)
 [![GitHub stars](https://img.shields.io/github/stars/probuho?style=social)](https://github.com/probuho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/probuho)
-[![Telegram](https://img.shields.io/badge/Telegram-26A11B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/probuho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniojruizc/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A11B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aruizc01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactoprobuho@gmail.com)
 
 </div>
 
@@ -18,15 +19,16 @@
 
 - 🎓 **Estudiando** en el mundo del desarrollo web y software
 - 💼 **Trabajando** en Telecomunicaciones Movilnet
-- 🔭 **Buscando** oportunidades para crecer como desarrollador
+- 🔭 **Buscando** oportunidades para crecer como desarrollador freelance
 - 📚 **Aprendiendo** nuevas tecnologías todos los días
 - ⚡ **Enthusiast** por crear aplicaciones funcionales y modernas
+- 🐧 **Linux enthusiast** — monitoreo y automatización de servidores
 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
 
-<div align="center">
+<div align="left">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,6 +39,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-333333?style=for-the-badge&logo=ssh&logoColor=white)
 
 </div>
 
@@ -44,7 +48,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![probuho's GitHub stats](https://github-readme-stats.vercel.app/api?username=probuho&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
@@ -56,64 +60,47 @@
 
 ### 🔥 Proyectos Destacados
 
-<div align="center">
-
-**[Portafolio_AntonioCanchica](https://github.com/probuho/Portafolio_AntonioCanchica)**
+**[Portafolios](https://github.com/probuho/Portafolio_AntonioCanchica)**
 > 🌐 Portafolio personal con diseño cyberpunk — Proyecto completo de sitio web moderno
 > *TypeScript* ⭐ 1
 
 **[Reporter](https://github.com/probuho/Reporter)**
-> 🤖 Bot de Telegram para reportes automatizados
+> 🤖 Bot de Telegram para monitoreo en tiempo real — Utiliza conexiones SSH para entregar estatus y reportes sobre servidores administrados con Linux
 > *TypeScript*
 
-**[SD3-kanban](https://github.com/probuho/SD3-kanban)**
-> 📋 Aplicación kanban — Ejercicio de gestión de tareas
+**[Kanban](https://github.com/probuho/SD3-kanban)**
+> 📋 Tablero kanban — Ejercicio de gestión de tareas
 > *JavaScript*
 
-**[GEP-front](https://github.com/probuho/GEP-front)**
-> ⚛️ Repositorio de pruebas front-end con TypeScript
+**[TSU Project](https://github.com/probuho/GEP-front)**
+> ⚛️ Proyecto defensivo para optar por el título de TSU — Front-end con TypeScript
 > *TypeScript*
-
-</div>
 
 ---
 
-### 📈 Repositorios Activos
+### 📈 Repositorios
 
 | Repo | Lenguaje | Descripción |
 |------|----------|-------------|
 | `Builder-CV` | — | Constructor de CV profesional |
-| `Portafolio_AntonioCanchica` | TypeScript | Portfolio cyberpunk |
-| `GEP-front` | TypeScript | Pruebas front-end |
-| `Reporter` | TypeScript | Bot Telegram |
-| `SD3-kanban` | JavaScript | App kanban |
+| `Portafolios` | TypeScript | Portfolio personal cyberpunk |
+| `GEP-front` | TypeScript | Proyecto TSU — Front-end |
+| `Reporter` | TypeScript | Bot SSH/Telegram para monitoreo de servidores Linux |
+| `Kanban` | JavaScript | Tablero kanban — Ejercicio |
 | `repo_programacion` | JavaScript | Proyecto de programación |
-| `paginavieja` | JavaScript/Laravel | Página escolar |
 
 ---
 
 ### 📫 Cómo contactarme
 
-- 📧 **Correo**: tu-correo@email.com *(actualízalo en tu perfil de GitHub)*
-- 💼 **LinkedIn**: [Antonio Ruiz](https://linkedin.com/in/probuho)
-- 💬 **Telegram**: [@probuho](https://t.me/probuho)
-- 🐙 **GitHub**: [probuho](https://github.com/probuho)
+- 📧 **Correo**: [contactoprobuho@gmail.com](mailto:contactoprobuho@gmail.com)
+- 💼 **LinkedIn**: [Antonio Ruiz](https://www.linkedin.com/in/antoniojruizc/)
+- 💬 **Telegram**: [@aruizc01](https://t.me/aruizc01)
+- 🐙 **GitHub**: [github.com/probuho](https://github.com/probuho)
 
 ---
 
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=https://github.com/profile-summary-cards.demolabhero.dev/api?username=probuho&theme=dark&cardWidth=450&leftColumn=repositories%2Ccontributions&rightColumn=used-languages%2Ctop-langs&header=Developer&footer=Never+stop+learning&footerColor=2DC9D1&borderRadius=8&borderColor=2DC9D1">
-  <source media="(prefers-color-scheme: light)" srcset="https://images.weserv.nl/?url=https://github.com/profile-summary-cards.demolabhero.dev/api?username=probuho&theme=light&cardWidth=450&leftColumn=repositories%2Ccontributions&rightColumn=used-languages%2Ctop-langs&header=Developer&footer=Never+stop+learning&footerColor=2DC9D1&borderRadius=8&borderColor=2DC9D1">
-  <img alt="Profile Summary" src="https://images.weserv.nl/?url=https://github.com/profile-summary-cards.demolabhero.dev/api?username=probuho&theme=dark&cardWidth=450&leftColumn=repositories%2Ccontributions&rightColumn=used-languages%2Ctop-langs&header=Developer&footer=Never+stop+learning&footerColor=2DC9D1&borderRadius=8&borderColor=2DC9D1">
-</picture>
-
-</p>
-
----
-
-<div align="center">
+<div align="left">
 
 *"El código es mi forma de hablar con el mundo."* 💻✨
 
